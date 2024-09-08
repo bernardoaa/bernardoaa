@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Olá, eu sou Bernardo Assumane, profissional de tecnologia!
+## Olá, eu sou Bernardo Assumane, buscador de conhecimentos!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bernardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
